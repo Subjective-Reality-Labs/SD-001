@@ -1,0 +1,3 @@
+## Shunt resistors
+
+You have to chose the proper footprint for these kind of resistors so the are rated according to anticipated power dissipatiion that can be calculated with ``P = I^2*R``. For example 33mOhm sense resistor with maximum current flowing though it at 2.5A will have to dissipate 0.21W. 0603 resistors have power rating of 1/8W and 0805 have 1/4W rating. So we need to use 0805 as it's the smallest one that fits the calculated rating.
