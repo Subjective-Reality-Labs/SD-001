@@ -1,5 +1,7 @@
 # SD-001
 
+![A render of the board](board_render.png)
+
 ## A devboard to test and demostrate principle of using 4 different lithium-ion battery charging ICSs
 
 This board studies the use of these 4 charge ICs: AW32001 and AW32257 from Awinic, APW7261 from Anpec and TP5100 from Top Power Asic.
