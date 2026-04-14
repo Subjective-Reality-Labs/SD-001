@@ -1,6 +1,7 @@
 # SD-001
 
-![A render of the board](board_render.png)
+<img src="board_render.png" alt="A render of the board" width="550">
+
 
 ## A devboard to test and demostrate principle of using 4 different lithium-ion battery charging ICSs
 
